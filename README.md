@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=yubinjodev&label=Total%20Visitors&labelColor=%23d9e3f0&countColor=%23263759)
 
-# 👋 Hi there! I'm Yubin, a frontend web developer/publisher based in Seoul.
+# 👋 Hi there! I'm Yubin, a frontend web/ui developer based in Seoul.
 
 - 👧🏻 make sure to check out my [portfolio!](https://yubinjo.vercel.app/)
 - 💬 ask me about anything, i am happy to help
