@@ -3,7 +3,7 @@
 # 👋 Hi there! I'm Yubin, a frontend developer based in Seoul.
 
 - 👧🏻 make sure to check out my [portfolio!](https://yubinjo.vercel.app/)
-- 📫 feel free to connect with me on [LinkedIn](www.linkedin.com/in/yubinjodev).
+- 📫 feel free to connect with me on [LinkedIn](https://linkedin.com/in/yubinjodev).
 - 💬 ask me about anything, i am happy to help!
 
 ## ⚡ Technologies
