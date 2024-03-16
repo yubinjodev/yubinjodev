@@ -4,7 +4,7 @@
 
 - 👧🏻 make sure to check out my [portfolio!](https://yubinjo.vercel.app/)
 - 📫 feel free to connect with me on [LinkedIn](https://linkedin.com/in/yubinjodev).
-- 💬 ask me about anything, i am happy to help!
+- 💬 ask me about anything, im happy to help!
 
 ## ⚡ Technologies
 
@@ -27,6 +27,7 @@
 ### CSS Frameworks
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
