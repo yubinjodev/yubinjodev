@@ -31,5 +31,5 @@
 
 ---
 
-![StackOverflowBadge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=21234531&period=year)
+![Stack Overflow Stats](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=21234531&period=year)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yubinjodev?theme=nord)
