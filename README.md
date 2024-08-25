@@ -31,5 +31,5 @@
 
 ---
 
-![some text to render if the image fails to load](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=21234531&period=year)
+![StackOverflowBadge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=21234531&period=year)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yubinjodev?theme=nord)
