@@ -1,7 +1,5 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=yubinjodev&label=Total%20Visitors&labelColor=%23d9e3f0&countColor=%23263759)
 
-# 👋 Hi there! I'm Yubin, a frontend developer based in Seoul.
-
 ## ⚡ Technologies
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
