@@ -2,10 +2,6 @@
 
 # 👋 Hi there! I'm Yubin, a frontend developer based in Seoul.
 
-- 👧🏻 make sure to check out my [portfolio!](https://yubinjo.vercel.app/)
-- 📫 feel free to connect with me on [LinkedIn](https://linkedin.com/in/yubinjodev).
-- 💬 ask me about anything, im happy to help!
-
 ## ⚡ Technologies
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
